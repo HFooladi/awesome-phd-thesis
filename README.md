@@ -26,6 +26,8 @@ I am presenting the PhD thesis that I have found useful and interesting
 
 - [Variational Inference & Deep Learning: A New Synthesis](https://pure.uva.nl/ws/files/17891313/Thesis.pdf), Diederik P. Kingma, 2017
 
+- [Neural Density Estimation and Likelihood-free Inference](https://arxiv.org/abs/1910.13233), G. Papamakarios, 2019
+
 ### Causlaity and Causal Inference
 
 - [From Dependence to Causation](https://arxiv.org/pdf/1607.03300), David Lopez-Paz, 2016
