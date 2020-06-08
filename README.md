@@ -1,13 +1,16 @@
 # awesome-phd-thesis
 I am presenting the PhD thesis that I have found useful and interesting
 
-### Bayesian Learning
+### Bayesian Learning and Inference
 
 - [Bayesian Methods for Adaptive Models](http://www.inference.org.uk/mackay/thesis.pdf), David J.C. MacKay, 1992
 
 - [Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf), Radford M. Neal, 1995
 
+- [Variational Inference in Probabilistic Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.2348&rep=rep1&type=pdf), Neil D. Lawrence, 2000
+
 - [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf), Yarin Gal, 2016 
+
 
 
 ### Reinforcement Learning
