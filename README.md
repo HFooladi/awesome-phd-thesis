@@ -44,3 +44,11 @@ I am presenting the PhD thesis that I have found useful and interesting
 ### Causlaity and Causal Inference
 
 - [From Dependence to Causation](https://arxiv.org/pdf/1607.03300), David Lopez-Paz, 2016
+
+### Artificial Life
+
+- [Efficient Evolution of Neural Networks through Complexification](http://nn.cs.utexas.edu/downloads/papers/stanley.phd04.pdf), Kenneth O. Stanley, 2004
+
+- [Evolution through the Search for Novelty](http://joellehman.com/lehman-dissertation.pdf), Joel Lehman, 2012
+
+- [Learning to Generalize via Self-Supervised Prediction](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-132.html), Deepak Pathak, 2019
