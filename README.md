@@ -13,16 +13,26 @@ I am presenting the PhD thesis that I have found useful and interesting
 
 
 
-### Reinforcement Learning
+### Reinforcement Learning and Control
 
 - [shaping and policy search in reinforcement learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/docs/ng-thesis.pdf), Andrew Y. Ng, 2003
 
 - [Optimizing Expectations: From Deep Reinforcement Learning to Stochastic Computation Graphs](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf), John Schulman, 2016
 
+- [Principles of Metalevel Control](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-152.html), Nicholas Hay, 2016
 
-### Computational Cognitive Science
+
+### Cognitive Science
+
+- [Learning and the language of thought](http://colala.berkeley.edu/papers/piantadosi_thesis.pdf), Steven Thomas Piantadosi, 2011
 
 - [Constructing the world: Active causal learning in cognition](https://cims.nyu.edu/~bramley/publications/neil_phd_thesis.pdf), Neil R. Bramley, 2017
+
+- [Towards a unifying theory of generalization](http://cpilab.org/pubs/Schulz2017phdthesis.pdf), Eric Schulz, 2017
+
+- [Computational foundations of human social intelligence](https://dspace.mit.edu/handle/1721.1/120621), Max Kleiman-Weiner, 2018
+
+- [Meta-Reinforcement Learning with Episodic Recall: An Integrative Theory of Reward-Driven Learning](https://search.proquest.com/openview/aa0bb30ccd832c22fd5b88471a9dccaf/1?pq-origsite=gscholar&cbl=18750&diss=y), Samuel Ritter, 2019
 
 
 ### Generative Models
