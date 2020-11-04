@@ -11,6 +11,8 @@ I am presenting the PhD thesis that I have found useful and interesting
 
 - [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf), Yarin Gal, 2016 
 
+- [Automating Inference, Learning, and Design using Probabilistic Programming](https://ora.ox.ac.uk/objects/uuid:e276f3b4-ff1d-44bf-9d67-013f68ce81f0), Tom Rainforth, 2017
+
 
 
 ### Reinforcement Learning and Control
