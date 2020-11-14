@@ -9,6 +9,10 @@ I am presenting the PhD thesis that I have found useful and interesting
 
 - [Variational Inference in Probabilistic Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.2348&rep=rep1&type=pdf), Neil D. Lawrence, 2000
 
+- [Model selection in compositional spaces](http://www.cs.toronto.edu/~rgrosse/phd-thesis.pdf), Roger Grosse, 2014
+
+- [Automatic Model Construction with Gaussian Processes](https://www.cs.toronto.edu/~duvenaud/thesis.pdf), David Duvenaud, 2014
+
 - [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf), Yarin Gal, 2016 
 
 - [Automating Inference, Learning, and Design using Probabilistic Programming](https://ora.ox.ac.uk/objects/uuid:e276f3b4-ff1d-44bf-9d67-013f68ce81f0), Tom Rainforth, 2017
